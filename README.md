@@ -3,6 +3,7 @@
 
 **
         # Black Scholes Model has been developed to calculate the price of options and either Call option or Put option.
+       
         # It is a Mathematical equation of pricing the stock.
 
         # The model is used to determine the fair price of stock options.
