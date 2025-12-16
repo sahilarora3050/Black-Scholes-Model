@@ -7,6 +7,7 @@
         # It is a Mathematical equation of pricing the stock.
 
         # The model is used to determine the fair price of stock options.
+        
         # It is based on six variables suce as:**
                 # - Type of option( Call or Put option)
                 # - Underlying stock price (spot price)
